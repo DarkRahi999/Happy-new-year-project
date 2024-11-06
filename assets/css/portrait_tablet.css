@@ -43,6 +43,22 @@
     --font-5: "Merriweather", serif;
 }
 /*!----------{  Last Update   :   01/11/2024   }----------_*/
+/*_----------{  My Break point Class  }----------_*/
+
+    .point-sm-1  {width: 8.33%;}
+    .point-sm-2  {width: 16.66%;}
+    .point-sm-3  {width: 25%;}
+    .point-sm-4  {width: 33.33%;}
+    .point-sm-5  {width: 41.66%;}
+    .point-sm-6  {width: 50%;}
+    .point-sm-7  {width: 58.33%;}
+    .point-sm-8  {width: 66.66%;}
+    .point-sm-9  {width: 75%;}
+    .point-sm-10 {width: 83.33%;}
+    .point-sm-11 {width: 91.66%;}
+    .point-sm-12 {width: 100%;}
+
+/*//----------{  My Break point Class  }----------_*/
 /* 
 ============================================================
 ---------------{ Style For Portrait_tablet }----------------

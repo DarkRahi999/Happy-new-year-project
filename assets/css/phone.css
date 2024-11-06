@@ -43,6 +43,22 @@
     --font-5: "Merriweather", serif;
 }
 /*!----------{  Last Update   :   01/11/2024   }----------_*/
+/*_----------{  My Break point Class  }----------_*/
+
+    .point-1  {width: 8.33%;}
+    .point-2  {width: 16.66%;}
+    .point-3  {width: 25%;}
+    .point-4  {width: 33.33%;}
+    .point-5  {width: 41.66%;}
+    .point-6  {width: 50%;}
+    .point-7  {width: 58.33%;}
+    .point-8  {width: 66.66%;}
+    .point-9  {width: 75%;}
+    .point-10 {width: 83.33%;}
+    .point-11 {width: 91.66%;}
+    .point-12 {width: 100%;}
+    
+/*//----------{  My Break point Class  }----------_*/
 /* 
 ============================================================
 --------------------{ Style For Phone }---------------------

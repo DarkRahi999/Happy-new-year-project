@@ -43,6 +43,22 @@
     --font-5: "Merriweather", serif;
 }
 /*!----------{  Last Update   :   01/11/2024   }----------_*/
+/*_----------{  My Break point Class  }----------_*/
+
+    .point-xl-1  {width: 8.33%;}
+    .point-xl-2  {width: 16.66%;}
+    .point-xl-3  {width: 25%;}
+    .point-xl-4  {width: 33.33%;}
+    .point-xl-5  {width: 41.66%;}
+    .point-xl-6  {width: 50%;}
+    .point-xl-7  {width: 58.33%;}
+    .point-xl-8  {width: 66.66%;}
+    .point-xl-9  {width: 75%;}
+    .point-xl-10 {width: 83.33%;}
+    .point-xl-11 {width: 91.66%;}
+    .point-xl-12 {width: 100%;}
+    
+/*//----------{  My Break point Class  }----------_*/
 /* 
 ============================================================
 --------------------{ Style For Laptop }--------------------
