@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/*W_----------{  Author      :   Bisakto-Rahi  }----------_*/
+/*W_----------{  Create      :   18/10/2024    }-----------_*/
+
+/*G_--------------{  Start Default Style For all  }--------------_*/
+/*-_----------{  My Color Variables  }----------_*/
+:root {
+  --red: #fc2a1b;
+  --dark: #212529;
+  --gray: #6c757d;
+  --white: #ffffff;
+  --gray-100: #f8f9fa;
+  --gray-200: #e9ecef;
+  --gray-300: #dee2e6;
+  --gray-400: #ced4da;
+  --gray-500: #adb5bd;
+  --gray-600: #6c757d;
+  --gray-700: #495057;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+  --black: #000000;
+  /*-_----------{  Website Font Variables  }----------_*/
+  --font-1: "Salsa", cursive;
+  --font-2: "Caveat", cursive;
+  --font-3: "Caveat Brush", cursive;
+  --font-4: "Merienda", cursive;
+  --font-5: "Merriweather", serif;
+}
+/*R_----------{  Last Update   :   26/11/2024   }----------_*/
+/*R_---------------------------------{  Start Default Style For all  }-------------------------------_*/
+
+/*Y_------------{  Extra small devices (phones, 600px and down) }------------*/
+@media only screen and (max-width: 600px) {
+    
+}
+/*Y_------------{  Small devices (portrait tablets and large phones, 600px and up) }------------*/
+@media only screen and (min-width: 600px) {
+    
+      
+}
+/*Y_------------{  Medium devices (landscape tablets, 768px and up) }------------*/
+@media only screen and (min-width: 768px) {
+    
+}
+/*Y_------------{  Large devices (laptops/desktops, 992px and up) }------------*/
+
+@media only screen and (min-width: 992px) {
+    
+}
+/*Y_------------{  Extra large devices (large laptops and desktops, 1200px and up) }------------*/
+@media only screen and (min-width: 1200px) {
+    
+}
+/*//_------------------------------------------{  Default Style For all  }------------------------------------------//*/
