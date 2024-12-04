@@ -6,6 +6,10 @@
 /*G_--------------{  Start Default Style For all  }--------------_*/
 /*-_----------{  My Color Variables  }----------_*/
 :root {
+<<<<<<< HEAD
+=======
+  --red: #fc2a1b;
+>>>>>>> 60a0cf54c7a81f329f03663f36e54e5e85e94545
   --dark: #212529;
   --gray: #6c757d;
   --white: #ffffff;
@@ -26,6 +30,7 @@
   --font-4: "Merienda", cursive;
   --font-5: "Merriweather", serif;
 }
+<<<<<<< HEAD
 /*R_----------{  Last Update   :   04/12/2024   }----------_*/
 /*R_--------------------------------------{  Start Default Style For all  }--------------------------------------_*/
 /*Y_------------{  Extra small devices (phones, 576px and down) }------------*/
@@ -37,3 +42,31 @@
   
 } 
 /*//_--------------{  Default Style For all  }--------------//*/
+=======
+/*R_----------{  Last Update   :   26/11/2024   }----------_*/
+/*R_---------------------------------{  Start Default Style For all  }-------------------------------_*/
+
+/*Y_------------{  Extra small devices (phones, 600px and down) }------------*/
+@media only screen and (max-width: 600px) {
+    
+}
+/*Y_------------{  Small devices (portrait tablets and large phones, 600px and up) }------------*/
+@media only screen and (min-width: 600px) {
+    
+      
+}
+/*Y_------------{  Medium devices (landscape tablets, 768px and up) }------------*/
+@media only screen and (min-width: 768px) {
+    
+}
+/*Y_------------{  Large devices (laptops/desktops, 992px and up) }------------*/
+
+@media only screen and (min-width: 992px) {
+    
+}
+/*Y_------------{  Extra large devices (large laptops and desktops, 1200px and up) }------------*/
+@media only screen and (min-width: 1200px) {
+    
+}
+/*//_------------------------------------------{  Default Style For all  }------------------------------------------//*/
+>>>>>>> 60a0cf54c7a81f329f03663f36e54e5e85e94545
