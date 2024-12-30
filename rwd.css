@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /*W_----------{  Author      :   Bisakto-Rahi  }----------_*/
-/*W_----------{  Create      :   18/10/2024    }-----------_*/
+/*W_----------{  Create      :   30/12/2024    }-----------_*/
 
 /*G_--------------{  Start Default Style For all  }--------------_*/
 /*-_----------{  My Color Variables  }----------_*/
@@ -26,7 +26,7 @@
   --font-4: "Merienda", cursive;
   --font-5: "Merriweather", serif;
 }
-/*R_----------{  Last Update   :   04/12/2024   }----------_*/
+/*R_----------{  Last Update   :   30/12/2024   }----------_*/
 /*R_--------------------------------------{  Start Default Style For all  }--------------------------------------_*/
 /*Y_------------{  Extra small devices (phones, 576px and down) }------------*/
 @media screen and (max-width: 576px ) {
