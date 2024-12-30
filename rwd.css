@@ -66,6 +66,16 @@
   .des-title ul li{
     margin-left: 10%;
   }
+  .Heading{
+    padding: 20px;
+  }
+  .plan{
+    flex-direction: column;
+  }
+  .plan > div{
+    width: 100%;
+    margin: 20px;
+  }
   
 } 
 /*Y_------------{  Medium devices (landscape tablets, 768px and up) }------------*/
