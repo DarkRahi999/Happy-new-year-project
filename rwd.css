@@ -30,10 +30,21 @@
 /*R_--------------------------------------{  Start Default Style For all  }--------------------------------------_*/
 /*Y_------------{  Extra small devices (phones, 576px and down) }------------*/
 @media screen and (max-width: 576px ) {
+  .header .des{
+    right: 3%;
+  }
+  .des h1{
+    font-size: 45px;
+  }
   
 } 
 /*Y_------------{  Medium devices (landscape tablets, 768px and up) }------------*/
 @media screen and (min-width: 576px ) and (max-width: 992px ) {
-  
+  .header .des{
+    right: 8%;
+  }
+  .des h1{
+    font-size: 50px;
+  }
 } 
 /*//_--------------{  Default Style For all  }--------------//*/
